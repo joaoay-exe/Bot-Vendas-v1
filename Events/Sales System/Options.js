@@ -117,8 +117,6 @@ export default {
                             .setLabel('Voltar')
                             .setEmoji('1178068047202893869')
                     );
-
-                // Responder ao usuário
                 interaction.update({
                     embeds: [],
                     components: [...rows, actionRow],
