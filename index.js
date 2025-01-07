@@ -1,7 +1,7 @@
 import { Collection, Client, Partials, GatewayIntentBits } from 'discord.js'
 import Events from './Handler/Events.js'
 import Commands from './Handler/Commands.js'
-import config from './config.json' assert { type: 'json' }
+import config from 'dotenv/config'
 
 const client = new Client({
     intents: Object.keys(GatewayIntentBits),
@@ -14,4 +14,4 @@ Events.run(client);
 Commands.run(client);
 client.SlashCommands = new Collection();
 
-client.login(config.token);
+client.login(config.TOKEN);

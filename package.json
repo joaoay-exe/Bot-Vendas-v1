@@ -12,6 +12,7 @@
   "description": "",
   "dependencies": {
     "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7",
     "wio.db": "^4.0.22"
   },
   "devDependencies": {
