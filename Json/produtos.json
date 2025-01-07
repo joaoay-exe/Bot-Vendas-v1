@@ -1,0 +1,13 @@
+{
+    "Teste": {
+        "Config": {
+            "Nome": "Teste",
+            "Desc": "BAAAAAAAAAAAAAAAAAA",
+            "Entrega": "Sim",
+            "icon": "",
+            "banner": ""
+        },
+        "Selects": [],
+        "Cupom": []
+    }
+}

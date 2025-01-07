@@ -1,2 +1,2 @@
 # Bot Vendas v1
- Um bot vendas facil e pratico de se usar
+Bot esta em desenvolvimento, Com o tempo irei indo atualizando para vocês poderem usar corretamente.

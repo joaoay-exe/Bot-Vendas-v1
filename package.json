@@ -1,0 +1,20 @@
+{
+  "name": "bot-vendas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "wio.db": "^4.0.22"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
